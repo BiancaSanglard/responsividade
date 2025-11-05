@@ -63,7 +63,7 @@ main {
         }
 
 .banner {
-    background-image: url(./img/surf.png); 
+    background-image: url(surf.png); 
     background-size: cover;
     background-repeat: no-repeat;
     color:#fff;
